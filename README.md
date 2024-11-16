@@ -1,16 +1,22 @@
-## Hi there 👋
+<h1 style="font-size": 15px>Hi I'm <a href="https://www.linkedin.com/in/ian-elijah-galang" target="_blank">IAN ELIJAH</a>, a student in the IT field.</h1>
 
-<!--
-**IanElijahGalang/IanElijahGalang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>Information Technology Projects:</h2>
 
-Here are some ideas to get you started:
+<h4>osTicket (Help Desk Ticketing System)</h4>
+  <ul>
+    <li>osTicket: Prerequisities and Installation</li>
+    <li>osTicket: Post-Installation and Configuration</li>
+    <li>osTicket: Ticket Lifestyle Examples</li>
+  </ul>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <h4>Active Directory</h4>
+  <ul>
+    <li>Setting up and working with Active Directory</li>
+    <li>DNS</li>
+    <li>Network File Share and Permissions</li>
+  </ul>
+
+  <h4>Microsoft Azure</h4>
+  <ul>
+    <li>Network Security Groups (NSGs) and Inspecting Network Protocols</li>
+  </ul>
