@@ -6,7 +6,7 @@
   <ul>
     <li><a href="https://github.com/IanElijahGalang/osticket-prereqs">osTicket: Prerequisities and Installation</a></li>
     <li><a href="https://github.com/IanElijahGalang/osticket-post-installation">osTicket: Post-Installation and Configuration</a></li>
-    <li><a href="https://github.com/IanElijahGalang/osticket-ticket-examples">osTicket: Ticket Lifestyle Examples</li>
+    <li><a href="https://github.com/IanElijahGalang/osticket-ticket-examples">osTicket: Ticket Lifecycle Examples</li>
   </ul>
 
   <h4>Active Directory</h4>
