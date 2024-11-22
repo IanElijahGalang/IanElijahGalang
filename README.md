@@ -4,7 +4,7 @@
 
 <h4>osTicket (Help Desk Ticketing System)</h4>
   <ul>
-    <li><a href="https://github.com/IanElijahGalang/osticket-prereqs/blob/main/README.md">osTicket: Prerequisities and Installation</a><li>
+    <li><a href="https://github.com/IanElijahGalang/osticket-prereqs/blob/main/README.md">osTicket: Prerequisities and Installation</a></li>
     <li>osTicket: Post-Installation and Configuration</li>
     <li>osTicket: Ticket Lifestyle Examples</li>
   </ul>
