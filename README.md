@@ -12,7 +12,7 @@
 
   <h4>Active Directory</h4>
   <ul>
-    <li>Setting up Active Directory Infrastructure</li>
+    <li><a href="https://github.com/IanElijahGalang/ActiveDirectory-Infrastructure-">Setting up Active Directory Infrastructure</li>
     <li>Deploying Active Directory</li>
     <li>Creating Users using Powershell</li>
     <li>Group Policy and Managing Accounts</li>
