@@ -4,14 +4,18 @@
 
 <h4>osTicket (Help Desk Ticketing System)</h4>
   <ul>
-    <li><a href="https://github.com/IanElijahGalang/osticket-prereqs">osTicket: Prerequisities and Installation</a></li>
+    <li><a href="https://github.com/IanElijahGalang/osticket-prereqs">osTicket: Prerequisite
+ and Installation</a></li>
     <li><a href="https://github.com/IanElijahGalang/osticket-post-installation">osTicket: Post-Installation and Configuration</a></li>
     <li><a href="https://github.com/IanElijahGalang/osticket-ticket-examples">osTicket: Ticket Lifecycle Examples</li>
   </ul>
 
   <h4>Active Directory</h4>
   <ul>
-    <li>Setting up and working with Active Directory</li>
+    <li>Setting up Active Directory Infrastructure</li>
+    <li>Deploying Active Directory</li>
+    <li>Creating Users using Powershell</li>
+    <li>Group Policy and Managing Accounts</li>
     <li>DNS</li>
     <li>Network File Share and Permissions</li>
   </ul>
