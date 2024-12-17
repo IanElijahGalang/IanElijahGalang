@@ -14,7 +14,7 @@
   <ul>
     <li><a href="https://github.com/IanElijahGalang/ActiveDirectory-Infrastructure-">Setting up Active Directory Infrastructure</li>
     <li><a href="https://github.com/IanElijahGalang/Deploying-Active-Directory">Deploying Active Directory</li>
-    <li>Creating Users using Powershell</li>
+    <li><a href="https://github.com/IanElijahGalang/Creating-Users-With-Powershell">Creating Users using Powershell</li>
     <li>Group Policy and Managing Accounts</li>
     <li>DNS</li>
     <li>Network File Share and Permissions</li>
